@@ -1,0 +1,8 @@
+streamlit
+pandas
+psycopg2-binary
+matplotlib
+seaborn
+numpy
+google-generativeai
+python-dotenv  

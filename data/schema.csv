@@ -1,0 +1,51 @@
+table_name,column_name,data_type
+brands,brand_id,integer
+brands,brand_name,character varying
+categories,category_id,integer
+categories,category_name,character varying
+customers,customer_id,integer
+customers,full_name,character varying
+customers,phone,character varying
+customers,email,character varying
+customers,street,character varying
+customers,city,character varying
+customers,state,character varying
+customers,zip_code,character varying
+order_items,order_id,integer
+order_items,item_id,integer
+order_items,product_id,integer
+order_items,quantity,integer
+order_items,list_price,numeric
+order_items,discount,numeric
+order_items,selling_price,real
+orders,order_id,integer
+orders,customer_id,integer
+orders,order_status,character varying
+orders,order_date,date
+orders,required_date,date
+orders,shipped_date,date
+orders,store_id,integer
+orders,staff_id,integer
+products,product_id,integer
+products,product_name,character varying
+products,brand_id,integer
+products,category_id,integer
+products,model_year,integer
+products,list_price,numeric
+staffs,staff_id,integer
+staffs,email,character varying
+staffs,active,integer
+staffs,store_id,integer
+staffs,manager_id,integer
+staffs,full_name,character varying
+stocks,store_id,integer
+stocks,product_id,integer
+stocks,quantity,integer
+stores,store_id,integer
+stores,store_name,character varying
+stores,phone,character varying
+stores,email,character varying
+stores,street,character varying
+stores,city,character varying
+stores,state,character varying
+stores,zip_code,character varying

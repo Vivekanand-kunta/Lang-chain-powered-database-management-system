@@ -1,0 +1,11 @@
+staff_id,email,active,store_id,manager_id,Full_name
+1,fabiola.jackson@bikes.shop,1,1,1,Fabiola Jackson
+2,mireya.copeland@bikes.shop,1,1,1,Mireya Copeland
+3,genna.serrano@bikes.shop,1,1,2,Genna Serrano
+4,virgie.wiggins@bikes.shop,1,1,2,Virgie Wiggins
+5,jannette.david@bikes.shop,1,2,1,Jannette David
+6,marcelene.boyer@bikes.shop,1,2,5,Marcelene Boyer
+7,venita.daniel@bikes.shop,1,2,5,Venita Daniel
+8,kali.vargas@bikes.shop,1,3,1,Kali Vargas
+9,layla.terrell@bikes.shop,1,3,7,Layla Terrell
+10,bernardine.houston@bikes.shop,1,3,7,Bernardine Houston
