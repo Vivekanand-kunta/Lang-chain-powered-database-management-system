@@ -4,3 +4,4 @@ __pycache__/
 git_token/
 git_token/
 git_token/
+.env
